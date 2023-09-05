@@ -1,5 +1,0 @@
-{{#user}}
-Name:ziad
-Skills: HTML, CSS, JS, python, django, MySQL, Version Control
-Email: ziadhenedy010@gmail.com
-{{/user}}
